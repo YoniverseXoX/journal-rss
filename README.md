@@ -4,13 +4,13 @@
 
 ## 订阅地址
 
-部署到 GitHub Pages 后，三个订阅地址为（把 `<用户名>` 和 `<仓库名>` 换成你的）：
+部署到 GitHub Pages 后，三个订阅地址为（）：
 
 | 期刊 | Feed URL |
 |---|---|
-| 社会 | `https://<用户名>.github.io/<仓库名>/feeds/society-shu.xml` |
-| 社会学评论 | `https://<用户名>.github.io/<仓库名>/feeds/sociological-review.xml` |
-| 社会学研究 | `https://<用户名>.github.io/<仓库名>/feeds/sociological-studies.xml` |
+| 社会 | `https://yoniversexox.github.io/journal-rss/feeds/society-shu.xml` |
+| 社会学评论 | `https://yoniversexox.github.io/journal-rss/feeds/sociological-review.xml` |
+| 社会学研究 | `https://yoniversexox.github.io/journal-rss/feeds/sociological-studies.xml` |
 
 ## 部署步骤（一次性）
 
